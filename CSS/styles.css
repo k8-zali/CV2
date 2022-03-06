@@ -35,6 +35,7 @@ margin: 100px auto;
   font-family: 'Sacramento', cursive;
   font-size: 6rem;
   color: #66BFBF;
+  text-align: center;
 }
 
 .heading2 {
@@ -43,6 +44,7 @@ margin: 100px auto;
   color: #66BFBF;
   font-weight: normal;
   padding-bottom: 10px;
+  text-align: center;
 }
 
 .heading3 {
